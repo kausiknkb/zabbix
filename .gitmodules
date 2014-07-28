@@ -52,3 +52,42 @@
 [submodule "pacman"]
 	path = pacman
 	url = https://github.com/PAC-man/pacman.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "mysql-chef_gem"]
+	path = mysql-chef_gem
+	url = https://github.com/opscode-cookbooks/mysql-chef_gem.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "freebsd"]
+	path = freebsd
+	url = https://github.com/opscode-cookbooks/freebsd.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "iis"]
+	path = iis
+	url = https://github.com/opscode-cookbooks/iis.git
+[submodule "7-zip"]
+	path = 7-zip
+	url = https://github.com/Blackavar/7-zip.git
+[submodule "chef-sugar"]
+	path = chef-sugar
+	url = https://github.com/sethvargo/chef-sugar.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
