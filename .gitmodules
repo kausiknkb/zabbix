@@ -40,3 +40,9 @@
 [submodule "yum-mysql-community"]
 	path = yum-mysql-community
 	url = https://github.com/opscode-cookbooks/yum-mysql-community.git
+[submodule "chocolatey"]
+	path = chocolatey
+	url = https://github.com/chocolatey/chocolatey.git
+[submodule "iptables"]
+	path = iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
