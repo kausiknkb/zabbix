@@ -94,3 +94,6 @@
 [submodule "runit"]
 	path = runit
 	url = https://github.com/cookbooks/runit.git
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/cookbooks/bluepill.git
