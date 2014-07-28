@@ -1,0 +1,36 @@
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/onehealth-cookbooks/apache2
+[submodule "zabbix"]
+	path = zabbix
+	url = https://github.com/nightw/zabbix.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "ufw"]
+	path = ufw
+	url = https://github.com/opscode-cookbooks/ufw.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/hw-cookbooks/postgresql.git
+[submodule "php-fpm"]
+	path = php-fpm
+	url = https://github.com/Fapiko/php-fpm.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/cookbooks/nginx.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/burtlo/ark.git
+[submodule "java"]
+	path = java
+	url = https://github.com/agileorbit-cookbooks/java.git
+[submodule "oracle-instantclient"]
+	path = oracle-instantclient
+	url = https://github.com/cla-rce/oracle-instantclient.git
