@@ -49,3 +49,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/cookbooks/logrotate.git
+[submodule "pacman"]
+	path = pacman
+	url = https://github.com/PAC-man/pacman.git
