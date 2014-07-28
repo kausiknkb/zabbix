@@ -34,3 +34,9 @@
 [submodule "oracle-instantclient"]
 	path = oracle-instantclient
 	url = https://github.com/cla-rce/oracle-instantclient.git
+[submodule "php"]
+	path = php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "yum-mysql-community"]
+	path = yum-mysql-community
+	url = https://github.com/opscode-cookbooks/yum-mysql-community.git
