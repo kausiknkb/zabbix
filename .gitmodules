@@ -22,9 +22,6 @@
 [submodule "php-fpm"]
 	path = php-fpm
 	url = https://github.com/Fapiko/php-fpm.git
-[submodule "nginx"]
-	path = nginx
-	url = https://github.com/cookbooks/nginx.git
 [submodule "ark"]
 	path = ark
 	url = https://github.com/burtlo/ark.git
@@ -97,6 +94,3 @@
 [submodule "bluepill"]
 	path = bluepill
 	url = https://github.com/cookbooks/bluepill.git
-[submodule "opscode-mysql"]
-	path = opscode-mysql
-	url = https://github.com/miketheman/opscode-mysql.git
